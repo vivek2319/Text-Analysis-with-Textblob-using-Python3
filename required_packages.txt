@@ -1,0 +1,31 @@
+Please make sure you have installed following packages 
+1)NLTK
+2)Textblob
+
+1) License: Apache 2.0
+Home: http://nltk.org/
+Development: https://github.com/nltk/nltk
+Documentation: https://nltk.readthedocs.io/en/latest/ 
+
+Please run this command in conda prompt to install NLTK with its dependencies.
+
+ conda install -c anaconda nltk 
+   
+Description
+
+NLTK has been called a wonderful tool for teaching and working in computational linguistics using Python and an amazing library to play with natural language.
+
+2)icense: MIT
+Home: https://github.com/sloria/TextBlob
+Development: https://github.com/sloria/TextBlob
+Documentation: https://textblob.readthedocs.io/en/dev/ 
+
+Please run this command in conda prompt to install textblob with its dependencies.
+
+ conda install -c conda-forge textblob 
+ 
+ Description
+
+TextBlob is a Python (2 and 3) library for processing textual data. It provides a consistent API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, and more. 
+
+
